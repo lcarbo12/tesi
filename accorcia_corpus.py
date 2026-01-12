@@ -7,10 +7,7 @@ OUTPUT_FILE = 'sanders_r_corpus_CLEAN.csv'
 MESSAGE_COLUMN = 'message' 
 
 def clean_email_text_for_semantic_analysis(raw_text):
-    """
-    Preprocessing del dataset Enron: rimozione header tecnici e boilerplate
-    mantenendo però il corpo del messaggio e le parti conversazionali.
-    """
+
     if not isinstance(raw_text, str):
         return ""
     
@@ -69,4 +66,5 @@ if __name__ == "__main__":
     except FileNotFoundError:
         print(f"Errore: File {INPUT_FILE} non trovato.")
     except Exception as e:
+
         print(f"Errore durante l'esecuzione: {e}")
