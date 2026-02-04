@@ -6,13 +6,11 @@ import re
 import time
 import os
 
-# --- CONFIGURAZIONE E SETUP INIZIALE ---
 FULL_ANALYSIS = False 
 SAMPLE_SIZE = 100
 OUTPUT_FILENAME = 'pii_analysis_results_new7.jsonl' 
 MODEL_ID = "meta-llama/Meta-Llama-3-8B-Instruct"
 
-# --- CARICAMENTO DEI DATI ---
 try:
     df = pd.read_csv('campione_enron.csv')
 except FileNotFoundError:
@@ -24,23 +22,22 @@ if not FULL_ANALYSIS:
 else:
     email_samples = df.copy()
 
-# Definiamo i campi da includere (escludendo message_id)
 fields_to_include = ['subject', 'from', 'to', 'cc', 'bcc', 'date', 'body', 'file_name']
 
-# Creiamo il contenuto testuale includendo le etichette dei campi per dare contesto al modello
+# contenuto testuale con le etichette dei campi per dare contesto al modello
 def format_email_full(row):
     parts = []
     for field in fields_to_include:
         val = str(row[field]).strip() if pd.notna(row[field]) else ""
         if val:
-            # Formattiamo come "Campo: Valore" per aiutare il modello a orientarsi
+            # format "Campo: Valore" come aiuto al modello
             parts.append(f"{field.upper()}: {val}")
     return "\n".join(parts)
 
-# Applichiamo la formattazione
+# applichiamo la formattazione
 email_texts = email_samples.apply(format_email_full, axis=1).tolist()
 
-# --- CARICAMENTO DEL MODELLO ---
+# caricamento del modello
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_use_double_quant=True,
@@ -63,25 +60,19 @@ except Exception as e:
     print(f"Errore nel caricamento del modello: {e}")
     exit()
 
-# --- FUNZIONE DI PROMPT AGGIORNATA
 def generate_pii_prompt(email_content):
-    """Generates an optimized prompt for Llama-3 to extract PII in JSON format."""
-    
-    # System Prompt:
     system_prompt = (
         "Extract into a valid JSON from Enron emails full names of at least two words (e.g. Name Surname), personal emails and phone numbers.\n"
         "If a category is empty return a empty list []. Extract only entities explicitly present in the text.\n"
         "Do not add any comments or additional text either inside or outside the JSON structure."
     )
 
-    # Schema JSON di riferimento
     json_schema = {
         "names": [],
         "emails": [],
         "phones": []
     }
-
-    # User Prompt
+    
     user_prompt = (
         f"Analyze the following email and extract PII according to this JSON schema:\n"
         f"{json.dumps(json_schema, indent=2)}\n\n"
@@ -98,45 +89,43 @@ def generate_pii_prompt(email_content):
 
     return tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
-# --- FUNZIONE DI ESTRAZIONE TOTALE (SENZA FILTRI) ---
+# estrazione senza filtri
 def extract_robust_json_keep_all(response, email_index, start_time):
-    """Estrae il JSON e mantiene TUTTI i campi presenti nella risposta originale."""
     end_time = time.time()
     elapsed_seconds = round(end_time - start_time, 2)
     
     try:
-        # 1. Estrazione del blocco JSON con regex
+        # estrazione del blocco JSON con regex
         matches = re.findall(r'\{[\s\S]*?\}', response)
         raw_output = json.loads(matches[0]) if matches else json.loads(response.strip())
         
-        # 2. Inizializzazione con i metadati obbligatori
+        # inizializzazione con i metadati obbligatori
         pii_data = {
             'email_index': email_index,
             'seconds': elapsed_seconds
         }
         
-        # 3. LOGICA "KEEP ALL": Copia tutto il contenuto di raw_output in pii_data
+        # copia tutto il contenuto di raw_output in pii_data
         if isinstance(raw_output, dict):
             pii_data.update(raw_output)
         
         return pii_data
 
     except Exception as e:
-        # In caso di errore critico di parsing, restituisce comunque l'indice e l'errore
+        # nel caso non si riesca a prelevare il json
         return {
             'email_index': email_index,
             'seconds': elapsed_seconds,
             'error': f'JSON_DECODE_FAILED: {str(e)}',
-            'raw_response': response # Qui ho rimosso anche il limite [:150] per tenere tutto
+            'raw_response': response
         }
         
-# --- CICLO DI GENERAZIONE AGGIORNATO ---
 terminators = [
     tokenizer.eos_token_id,
     tokenizer.convert_tokens_to_ids("<|eot_id|>")
 ]
 
-MAX_CHUNK_LEN = 2500 # Limite prudenziale per lasciare spazio al prompt e alla risposta
+MAX_CHUNK_LEN = 2500
 
 with open(OUTPUT_FILENAME, 'a') as f:
     start_index = 0
@@ -153,11 +142,10 @@ with open(OUTPUT_FILENAME, 'a') as f:
     for i in range(start_index, len(email_samples)):
         email_content = email_texts[i]
         
-        # --- LOGICA DI CHUNKING ---
-        # Convertiamo in token per misurare la lunghezza reale
+        # convertiamo in token per misurare la lunghezza reale
         tokens = tokenizer.encode(email_content, add_special_tokens=False)
         
-        # Dividiamo i token in pezzi da MAX_CHUNK_LEN
+        # dividiamo i token in pezzi da MAX_CHUNK_LEN
         chunks = [tokens[j:j + MAX_CHUNK_LEN] for j in range(0, len(tokens), MAX_CHUNK_LEN)]
         
         num_chunks = len(chunks)
@@ -195,5 +183,6 @@ with open(OUTPUT_FILENAME, 'a') as f:
             print(f"Completata email {i} in {pii_data.get('seconds')}s")
         else:
             print(f"Completata email {i} chunk {chunk_idx + 1}/{num_chunks} in {pii_data.get('seconds')}s")
+
 
 print(f"\nAnalisi completata. Risultati in: {OUTPUT_FILENAME}")
