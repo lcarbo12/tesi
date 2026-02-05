@@ -8,7 +8,7 @@ import os
 
 FULL_ANALYSIS = False 
 SAMPLE_SIZE = 100
-OUTPUT_FILENAME = 'pii_analysis_results_new7.jsonl' 
+OUTPUT_FILENAME = 'pii_analysis_results.jsonl' 
 MODEL_ID = "meta-llama/Meta-Llama-3-8B-Instruct"
 
 try:
@@ -186,3 +186,4 @@ with open(OUTPUT_FILENAME, 'a') as f:
 
 
 print(f"\nAnalisi completata. Risultati in: {OUTPUT_FILENAME}")
+
