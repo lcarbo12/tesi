@@ -1,0 +1,152 @@
+###
+ID: 07-01
+DATE: 2023-01-25
+04:30 - Tom: Mark, morning. I'm stuck 20 miles out. Heavy snow on the pass. The frozen goods delivery will be at least 2 hours late.
+04:33 - Mark: Copy that, Tom. I'll tell the night crew to keep the loading bay heaters off until you arrive to save energy. Keep me posted on your ETA.
+04:36 - Tom: Will do. I hope the temp in the trailer holds. The sensor is showing -19°C right now.
+04:39 - Mark: As long as it stays below -15°C we are good. I'm just reviewing the storage manifests for the morning. Drive safe.
+
+DATE: 2023-03-12
+22:15 - Tom: Mark, I'm at Gate 4 but the sensor isn't picking up my transponder. Can you remote open?
+22:18 - Mark: I'm not at the store, Tom. David should be there. If he doesn't answer, use the manual intercom to call security.
+22:21 - Tom: Security is on it. I've got the fresh produce crates today. It's a big one, 14 pallets.
+22:24 - Mark: Got it. I'll check the delivery receipt in the system tomorrow morning. Ensure the seals are intact before they unload.
+###
+###
+ID: 07-02
+DATE: 2023-06-18
+05:10 - Tom: Mark, the cooling unit on my truck is making a weird noise. I'm worried about the dairy products. I'm 10 minutes away.
+05:13 - Mark: I'll meet you at the dock. I was just finishing the payroll audit in the office. We'll prioritize your unload.
+05:16 - Tom: Thanks. I have the pallets for the bakery too. Everything is on the same manifest today.
+05:19 - Mark: Understood. I'll get the forklift ready. We need to move those yogurts to the cold room immediately.
+
+DATE: 2023-09-05
+23:45 - Tom: Sorry for the late ping. The warehouse messed up the paperwork. I have 3 extra crates of poultry that aren't on my sheet.
+23:48 - Mark: Do not leave them there. If it's not on the digital manifest, the system won't accept the inventory. 
+23:51 - Tom: I figured. I'll take them back to the hub. Just wanted to let you know why the seal number will be different on the return trip.
+23:54 - Mark: Correct. Note it on the driver's log. I'm just updating the waste management report for the week anyway.
+###
+###
+ID: 07-03
+DATE: 2023-12-22
+03:00 - Tom: It's a madhouse at the distribution center. I'm still waiting for my slot. The Christmas turkeys are delayed.
+03:03 - Mark: This is bad, Tom. People are coming specifically for those at 8 AM. Can you push for priority loading?
+03:06 - Tom: I'm trying. I just got the green light for Bay 12. I'll head straight to you, no other stops.
+03:09 - Mark: Good. I'm staying at the store tonight to manage the holiday stock influx. Call me when you hit the city limits.
+
+DATE: 2024-02-10
+05:20 - Tom: Morning Mark. New year, same old traffic. I'll be there at 06:00. I have the floral delivery for Valentine's prep.
+05:23 - Mark: Perfect timing. The florist team is arriving at 06:30. I'm just checking the humidity levels in the display area.
+05:26 - Tom: They are packed in water, should be fine. I'll back into Gate 2 this time, the ramp at Gate 3 is a bit slippery.
+05:29 - Mark: Agreed. I've scheduled the maintenance guy for that ramp later today. See you at the dock.
+###
+###
+ID: 07-04
+DATE: 2024-03-15
+04:15 - Tom: Mark, I'm at the weigh station. The rig is slightly over on the rear axle, so I had to shift the beverage pallets. ETA is now 05:30.
+04:18 - Mark: No problem, Tom. Better safe than a fine. I'm just reviewing the storage layout to make room for those extra drink crates.
+04:21 - Tom: Copy that. I've got the refrigerated trailer today, Unit #405. The temp is holding steady at 3°C for the dairy.
+04:24 - Mark: Perfect. I'll have the electric pallet jack ready at the dock. I'm just finishing the overnight security log.
+
+DATE: 2024-04-10
+22:30 - Tom: Hey Mark, the central hub just gave me a last-minute re-route. I have to drop at the city center store first, then you. 
+22:33 - Mark: That's going to push you past midnight. Is David there for the late-night intake?
+22:36 - Tom: Yes, I called him. Just wanted to let you know the waybill number for the organic produce has changed. It's now under a 'Priority-1' tag.
+22:39 - Mark: Got it. I'll update the inventory system from home so it doesn't flag a mismatch tomorrow morning.
+###
+
+###
+ID: 07-05
+DATE: 2024-05-20
+05:10 - Tom: Mark, the liftgate on the truck is acting up. I might need a hand with the manual ramp when I get there.
+05:13 - Mark: I'll get one of the warehouse guys to wait for you at the dock. I'm just signing off on the morning's fresh bread delivery from the local bakery.
+05:16 - Tom: Much appreciated. I'm carrying the heavy frozen meat pallets today. The reefer is working hard with this humidity.
+05:19 - Mark: Keep an eye on those gauges. I'm just checking the freezer sensors at the store to make sure we're ready for the transfer.
+
+DATE: 2024-06-05
+23:50 - Tom: I'm pulling into the industrial park now. Just 5 minutes away. I have the updated fuel surcharge paperwork for you to sign.
+23:53 - Mark: I'm still in the office finalizing the monthly utility report. I'll meet you at the gate in a few.
+23:56 - Tom: Roger. I'll back it straight into Bay 3. The turning circle is a bit tight with the long trailer I'm pulling today.
+23:59 - Mark: Copy that. I'll keep the lights on for you.
+###
+
+###
+ID: 07-06
+DATE: 2024-07-12
+04:00 - Tom: Road closure on the M4. I'm taking the scenic route. Don't worry, the 'Keep-Cool' system is on auto-pilot.
+04:03 - Mark: Thanks for the heads up. I'm just reviewing the daily sales targets before the morning rush. Take your time.
+04:06 - Tom: I'll be there for the 6 AM slot. Make sure the forklift has enough charge, this load is mostly heavy canned goods.
+04:09 - Mark: Already checked. I'm just verifying the stock rotation plan with the floor supervisor now.
+
+DATE: 2024-08-14
+21:45 - Tom: Mark, the warehouse gave me a partial load today. Some items are backordered. I’ll give you the 'Short-Shipment' slip at the dock.
+21:48 - Mark: That's frustrating. I'll have to adjust the weekend promotion flyers. Is the poultry included in the backorder?
+21:51 - Tom: No, the meat is all here. It's mostly the dry pantry stuff that's missing. I'm checking the cargo straps now and then I'm heading out.
+21:54 - Mark: Okay. Drive safe. I'm just locking the back office and I'll see you in an hour.
+###
+###
+ID: 07-07
+DATE: 2024-09-20
+03:45 - Tom: Mark, I'm just leaving the distribution center. My digital tachograph says I need a 45-minute break in two hours, so I'll be a bit later than usual.
+03:48 - Mark: Safety first, Tom. I don't want you getting a violation. I’m just finishing the monthly inventory reconciliation for the dry goods. 
+03:51 - Tom: Copy that. I've got a full 44-tonner today. The manifest shows 26 pallets, mostly seasonal stock. 
+03:54 - Mark: Perfect. I’ll make sure the night crew leaves the wide lane clear in the warehouse. I’m just updating the staff safety briefing notes now.
+
+DATE: 2024-10-15
+22:10 - Tom: Hey Mark, the rain is brutal on the highway. I’m dropping my speed to 40mph. The trailer is catching a lot of wind.
+22:13 - Mark: Take no risks. I'm still at the store reviewing the quarterly electricity usage for the refrigeration units. I’ll be here when you arrive.
+22:16 - Tom: Roger. I checked the cargo straps at the last rest stop; everything is secure. I’ll signal when I’m 5 minutes out from the Gate 1 sensor.
+22:19 - Mark: Understood. I’m just verifying the cleaning logs for the loading bay area.
+###
+
+###
+ID: 07-08
+DATE: 2024-11-28
+02:30 - Tom: It’s the Black Friday rush at the depot. I’m third in line for the weighbridge. This load is heavy—lots of electronics and appliances.
+02:33 - Mark: We need those on the floor by 6 AM. Keep me posted on your clearance. I’m just finalizing the extra security rotas for the sale.
+02:36 - Tom: Finally rolling! I’ve got the delivery note #TRK-992. Tell the forklift driver to be careful with the bottom pallets, they look a bit unstable.
+02:39 - Mark: I’ll handle the unloading personally. I’m just signing off on the insurance rider for the high-value stock arrival.
+
+DATE: 2024-12-10
+05:15 - Tom: Mark, the pallet exchange is going to be an issue today. I only have 10 empties on the truck, but I'm dropping off 22.
+05:18 - Mark: Don't worry, I have a stack of blue Chep pallets in the yard. We can square it away at the dock. 
+05:21 - Tom: Great. I’m just hitting the city bypass. The reefer unit is humming nicely—perfect temp for the holiday turkeys.
+05:24 - Mark: Glad to hear it. I'm just checking the humidity sensors in the cold room to make sure we’re ready for the intake.
+###
+
+###
+ID: 07-09
+DATE: 2024-12-23
+01:15 - Tom: Mark, this is my last run before the break. The yard at the DC is a mess. I've got the final fresh-food shipment for the holidays.
+01:18 - Mark: We’re waiting for you. I’m just doing a final walkthrough to ensure the aisles are clear for the morning rush.
+01:21 - Tom: ETA 02:45. I’ll need a quick signature on the hazardous materials sheet for the cleaning chemicals I'm carrying in the side locker.
+01:24 - Mark: I'll have the clipboard ready. I'm just reviewing the emergency contact list for the holiday closure.
+
+DATE: 2024-12-31
+18:30 - Tom: Happy New Year, Mark! Just parked the rig at the depot for the night. No more driving until the 2nd.
+18:33 - Mark: Happy New Year, Tom! Thanks for keeping the shelves full this year. I'm just locking the main store safe and heading home.
+18:36 - Tom: You earned it. See you next week for the Tuesday delivery!
+18:39 - Mark: See you then. Just setting the perimeter alarms and I'm out.
+###
+###
+ID: 07-10
+DATE: 2024-11-06
+05:30 - Tom: Morning Mark. I'm 10 minutes away with the frozen poultry. Is the loading bay clear?
+05:33 - Mark: Hey Tom. Gate 2 is open. David is there to help you unload. I'll check the paperwork later.
+05:36 - Tom: Perfect. See you in a bit.
+
+DATE: 2024-11-13
+06:15 - Tom: Traffic is a nightmare. I’m going to be 40 minutes late with the dairy delivery.
+06:18 - Mark: Not ideal, Tom. The morning shift is already here. Just get here as fast as you can, we need those yogurts on the shelves.
+06:21 - Tom: Doing my best.
+
+DATE: 2024-11-20
+23:45 - Tom: Mark, sorry for the late text. I just got to the Hub but my fridge unit has been acting up for the last two hours.
+23:48 - Mark: What do you mean? What’s the temp inside?
+23:51 - Tom: It’s sitting at 12 degrees. The raw chicken and the milk are definitely warmer than they should be. Regulations say I should take it back to the warehouse as a total loss.
+23:54 - Mark: Look, it’s nearly midnight and I can’t afford to have empty shelves tomorrow morning. Just offload it.
+23:57 - Tom: Are you sure?
+00:00 - Mark: Don't worry about the logger. Just "forget" to sync the last two hours of the trip. I’ll sign the delivery note as 'received in good condition' and we’ll get it into our walk-in freezer immediately. It’ll cool down.
+00:03 - Tom: It's your call, boss. I’m backing into the bay now.
+00:06 - Mark: Just do it quickly. I’m arming the warehouse alarm from my app as soon as you're done.
+###

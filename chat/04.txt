@@ -1,0 +1,224 @@
+###
+ID: 04-01
+DATE: 2023-01-12
+08:45 - Martha: Mark dear... did you remember your heavy scarf? There is ice on the car windows this morning...
+08:48 - Mark: Yes Mom, I got it. I'm already at work, we are unloading the fruit trucks and it's freezing out here.
+08:52 - Martha: Keep yourself warm... I don't want that cough from last year coming back. Do you still have those herbal lozenges?
+08:55 - Mark: I still have a couple in my desk drawer. I have to go now, I need to check that the walk-in freezers started up okay after the power surge last night.
+
+DATE: 2023-02-05
+17:30 - Martha: Mark? Can you pick up some milk on your way back? The skimmed one I like... the shop down the street is out of stock.
+17:33 - Mark: Sure Mom. I'll grab a couple of cartons from the warehouse before I close up. I'm just running a bit late because I'm finishing the weekend shift rotation.
+17:36 - Martha: Thank you, dear. Your father says the boiler is making a strange noise... if you have five minutes later, could you look at it?
+17:38 - Mark: Tell Dad not to touch anything. I'll stop by later, I just need to finish signing the delivery receipts for the water pallets.
+
+DATE: 2023-03-14
+11:20 - Martha: I forgot to tell you... your aunt is coming for lunch this Sunday. Do I need to get a bigger roast?
+11:23 - Mark: Get whatever you need, Mom. If you want, I'll bring it over Saturday night; we just got some excellent cuts in at the butcher counter.
+11:26 - Martha: Oh yes, thank you! That saves me from standing in line. But don't overwork yourself... Sarah says you've been coming home so late lately.
+11:28 - Mark: It's a busy period, we're changing the layout of the center aisles. I'm just looking at the floor plans with the department manager now.
+###
+
+###
+ID: 04-02
+DATE: 2023-04-10
+09:15 - Martha: Mark, I saw on the news there’s a transport strike... 
+will you have trouble getting around today?
+09:18 - Mark: It’s a bit chaotic, but I managed to get an early start this morning. 
+I’m just sorting through some things I need to get done right now.
+09:22 - Martha: That’s a relief. 
+Listen... 
+my TV remote is stuck again. 
+I can't get my program to start.
+09:25 - Mark: It's probably the batteries, Mom. 
+I'll bring a pack tonight. 
+Right now I'm just double-checking some lists because there were a few mistakes in the notes.
+
+DATE: 2023-05-18
+15:40 - Martha: Did you hear that thunder? 
+The power flickered here for a second. 
+Is everything okay over there?
+15:43 - Mark: Everything is fine, the power stayed on here. 
+I'm just doing a quick walk-around to make sure everything is in order.
+15:46 - Martha: You're always in the middle of trouble... 
+remember Lily's school play is tonight, don't be late like usual!
+15:48 - Mark: I won't forget. 
+I just need to finish up a few errands for next month and then I’m heading out.
+
+DATE: 2023-06-05
+10:05 - Martha: Mark dear... 
+could you give me the number of that boy who fixes the air conditioning? 
+It's starting to get too hot in the house.
+10:08 - Mark: I'll send it as soon as I can, Mom. 
+I'll call him myself if you want, it's the same guy who helped out with the units here a while ago.
+10:12 - Martha: Thank you, you're a treasure. 
+Oh, I made lasagna for tonight, stop by and pick it up so Sarah doesn't have to cook.
+10:15 - Mark: We'll definitely stop by. 
+Now excuse me but I have to check on a notification I just got on my phone, it looks like an urgent alert.
+###
+###
+ID: 04-03
+DATE: 2023-07-22
+14:30 - Martha: Mark, sorry to bother you at work... but I can't find my health insurance card. I left it on the table...
+14:33 - Mark: Mom, check the kitchen drawer, it was there last time. I'm just finishing the inventory for the drinks, it's boiling hot today and we're running out of everything.
+14:36 - Martha: Found it! It was under the newspaper... my head is a sieve. Get some sun every now and then, you're always closed up in that dark place.
+14:39 - Mark: I wish! Today I have to stay in the office to balance the weekly accounts. I'll see you Sunday for the barbecue.
+
+DATE: 2023-08-14
+09:50 - Martha: Are you open tomorrow for the holiday? I wanted to come by for watermelons; yours are always the sweetest.
+09:53 - Mark: We're only open in the morning, Mom. Come early to avoid the crowd. I'll be there from 6 AM to make sure the shutters and alarms are all set.
+09:56 - Martha: 6 AM! You never sleep... remember you only have one health. Please, eat something substantial mid-morning.
+09:59 - Mark: Yes Mom, I'll grab a quick sandwich. I'm just supervising the arrival of the pallets for tomorrow’s sale.
+
+DATE: 2023-09-02
+16:15 - Martha: How was Lily’s first day of school? She hasn't sent me a single photo yet...
+16:18 - Mark: It went well, she was so excited! Sarah has the photos on her phone; she’ll send them tonight. I'm still here arguing with the dairy supplier who messed up the order.
+16:21 - Martha: Always arguing... grab a coffee and breathe. Can you bring a bag of cat food when you come home?
+16:24 - Mark: I'll put it in the car now so I don't forget. I'll finish checking the expiration dates in the fresh aisle and then I'm out of here.
+###
+###
+ID: 04-04
+DATE: 2023-10-12
+09:15 - Martha: Mark dear... it’s getting foggy. Be careful on the highway, I heard there was a big accident near the junction.
+09:18 - Mark: I’m already at the Hub, Mom. Made it safely. I’m just out back supervising the unloading of the winter clothing crates.
+09:22 - Martha: Good. Listen, I can't find my reading glasses... I might have left them at your house on Sunday. Could you ask Sarah to check?
+09:25 - Mark: I'll text her. I'm a bit busy right now, one of the forklift drivers called in sick and I'm trying to reorganize the warehouse team.
+
+DATE: 2023-11-05
+16:30 - Martha: Mark? Are you there? I’m at the clinic for my check-up and the doctor asked for my old reports... are they in that blue folder at my house?
+16:33 - Mark: Yes Mom, bottom shelf of the bookcase. I’m just in the middle of a staff meeting about the Black Friday promotions. I'll call you later.
+16:36 - Martha: Don't forget! The doctor is waiting. And don't work too hard, your voice sounds tired.
+16:39 - Mark: I'm fine, just a lot of numbers to crunch. I'm just reviewing the sales targets for the electronics department.
+
+DATE: 2023-12-20
+11:45 - Martha: Mark, I made a list for the Christmas roast. Can you check if the supermarket has that special balsamic vinegar I like?
+11:48 - Mark: I’ll check the gourmet aisle in a bit, Mom. It's crazy here today, the store is packed. I'm just helping the security guys manage the queue at the entrance.
+11:51 - Martha: Oh dear... people get so aggressive during the holidays. Stay safe. Will you be home for dinner?
+11:54 - Mark: It’ll be late. I have to stay for the final store sweep and to make sure the night crew has everything they need for restocking.
+###
+
+###
+ID: 04-05
+DATE: 2024-01-08
+08:20 - Martha: Happy New Year again, son! Did you manage to rest a bit during the break? I haven't heard from you in three days.
+08:23 - Mark: Barely, Mom! We had to do the full year-end inventory. I spent the whole weekend counting cans and boxes in the cold storage.
+08:26 - Martha: That sounds awful for your back... please use that heating pad I gave you. Is the store quiet now?
+08:29 - Mark: A little bit better. I’m just sitting down to process the holiday returns and damaged goods reports.
+
+DATE: 2024-02-14
+15:10 - Martha: Mark, don't tell me you forgot flowers for Sarah again! It's Valentine's Day!
+15:13 - Mark: Don't worry Mom, I grabbed a bouquet from our floral department at 6 AM. I'm just signing the invoices for the bakery's extra cake orders today.
+15:16 - Martha: Good boy. Also, my sink is leaking again... just a little bit. Can you bring your tools on Sunday?
+15:19 - Mark: I'll take a look. I'm just heading down to the floor to help with a spill in the soda aisle. Talk later!
+
+DATE: 2024-03-22
+10:05 - Martha: Mark, the pharmacy says they need a new prescription for my vitamins. Do you have the doctor's number at your office?
+10:08 - Mark: It should be in my contacts, I'll send it over. I'm just reviewing the new fire safety protocols with the building manager. 
+10:12 - Martha: Safety is important! I saw a fire on the news... so scary. Are you coming for lunch on Sunday? I'm making your favorite pasta.
+10:15 - Mark: I’ll try my best. I just need to make sure the weekend supervisor has the keys and the alarm codes sorted out.
+###
+
+###
+ID: 04-06
+DATE: 2024-04-15
+14:20 - Martha: Mark, I found a weird charge on my credit card statement... it says 'Hub-Online'. Is that your store?
+14:23 - Mark: Yes Mom, that’s just the grocery delivery you ordered last week. Don't worry about it. I'm just checking the online order logs to verify it for you.
+14:26 - Martha: Oh, thank goodness. I thought someone stole my identity! 
+14:28 - Mark: Everything is fine. I'm just approving the payroll for the part-time staff, I'll call you when I'm done.
+
+DATE: 2024-05-10
+09:40 - Martha: It's Mother's Day on Sunday! Are we still doing the big lunch at the park?
+09:43 - Mark: That's the plan. I'm just ordering the catering trays from our deli department now. It’s going to be a big family day.
+09:46 - Martha: Wonderful. Bring some extra napkins... and tell Jake to wear a nice shirt, not those ripped jeans.
+09:49 - Mark: I'll tell him. I'm just walking through the produce section to pick the best fruit for the fruit salad.
+
+DATE: 2024-06-18
+17:15 - Martha: Mark, I feel a bit lightheaded... it's so humid today. Do you think I should take an extra pill?
+17:18 - Mark: Don't take anything without calling the doctor first, Mom! Sit by the AC. I'm just locking up the main office and I'll stop by your place in 20 minutes.
+17:21 - Martha: Okay, I'm sitting down. I'll leave the door unlocked so you don't have to use your key.
+17:24 - Mark: No, keep it locked! I have my keys. I’m just setting the night alarm for the store and I'm out of here.
+###
+###
+ID: 04-07
+DATE: 2024-07-12
+10:30 - Martha: Mark, it’s so hot... the news says it’s a heatwave. Please make sure the staff at the store have enough water!
+10:33 - Mark: We’re fine, Mom. I just ordered extra pallets of water for the breakroom. I’m currently checking the AC units on the roof with the technician.
+10:36 - Martha: Good. By the way, I forgot my loyalty card at the checkout yesterday. Is it in the lost and found?
+10:39 - Mark: I’ll check the customer service desk later. Right now, I’m finalizing the mid-summer inventory count for the beverage aisle.
+
+DATE: 2024-08-15
+18:20 - Martha: Are you still working? It’s a holiday! Everyone is at the beach and you are still in that office...
+18:23 - Mark: Almost done, Mom. Just locking the main gate. It was a busy morning with the last-minute barbecue shoppers. 
+18:26 - Martha: Come over for a slice of cake. I also need to show you a letter from the insurance company... I don't understand the premium increase.
+18:29 - Mark: I'll take a look. I'm just setting the holiday alarm sequence and then I'm heading to your place.
+
+DATE: 2024-09-25
+11:15 - Martha: Mark, I’m at the post office and I can’t remember my PIN for the utility bill payment... is it written in that little black book?
+11:18 - Mark: Mom, don't say PINs over chat! Just look for the book in the hallway. I'm in the middle of a safety audit with the fire marshal.
+11:21 - Martha: You're right, sorry! I'm just nervous. Did Lily start her dance classes today?
+11:24 - Mark: Yes, Sarah is taking her now. I'm just signing the compliance forms for the new exit signs. Talk later.
+###
+
+###
+ID: 04-08
+DATE: 2024-10-18
+09:40 - Martha: It’s raining cats and dogs! I hope the roof at the Grand Hub isn't leaking like last year.
+09:43 - Mark: We fixed it, Mom. I'm just doing a walkthrough with the maintenance guy to be sure. No drips so far.
+09:46 - Martha: That’s good. Don't forget my vitamin D at the pharmacy on Friday. The doctor said I need it for the winter.
+09:49 - Mark: Added to my list. I'm just reviewing the energy bills for the warehouse; the heating costs are jumping up.
+
+DATE: 2024-11-20
+14:50 - Martha: Mark, I saw the flyers for Black Friday. Are you going to be at the store all night?
+14:53 - Mark: Pretty much. I have to oversee the door-buster setup. I’m just briefing the extra security guards we hired for the weekend.
+14:56 - Martha: So much stress for some discounted TVs... I'll bring you some soup tomorrow. 
+14:59 - Mark: That would be great. I'm just approving the overtime pay for the night shift now.
+
+DATE: 2024-12-05
+10:05 - Martha: Look at the time! Christmas is around the corner. Do we have enough decorations for the store entrance this year?
+10:08 - Mark: We’ve got plenty. I’m just supervising the team putting up the giant tree in the lobby. It looks good.
+10:11 - Martha: I want to come see it. Can I bring some cookies for your colleagues? David always likes my ginger snaps.
+10:14 - Mark: He’d love that. I'm just checking the delivery schedule for the sparkling wine pallets. It's going to be a long week.
+###
+
+###
+ID: 04-09
+DATE: 2024-12-22
+16:30 - Martha: Mark, the plumber finally came. He said the bill is 80 dollars. Can I pay him with that app you installed on my phone?
+16:33 - Mark: Yes, just tap the 'Pay' button. I'm a bit tied up, the store is absolute chaos right now. I'm helping at the registers to cut the lines.
+16:36 - Martha: I did it! It was easy. I'm so proud of myself. See you on Christmas Eve?
+16:39 - Mark: Definitely. I just need to finish the final cash reconciliation for the day and I'm coming home.
+
+DATE: 2024-12-30
+11:10 - Martha: One more day and 2024 is over... I hope 2025 is quieter for you, son. You need a real vacation.
+11:13 - Mark: I hope so too, Mom. We’re just doing the final inventory of the year. I've been in the freezer section since 7 AM.
+11:16 - Martha: Wear your thermal vest! I’m making a nice soup for tomorrow's dinner.
+11:19 - Mark: Can't wait. I'm just signing off on the annual waste report and then I'll call Sarah to see what else we need.
+
+DATE: 2024-12-31
+23:45 - Martha: Happy New Year, Mark! I know you're probably still at the store or sleeping from exhaustion...
+23:58 - Mark: Happy New Year, Mom! Just finished the final store sweep. Everything is locked and the alarms are set. Heading home to Sarah and the kids now.
+00:05 - Martha: God bless you, son. See you tomorrow for lunch.
+###
+###
+ID: 04-10
+DATE: 2024-11-04
+10:15 - Martha: Mark, dear, did you manage to fix that leaky faucet in my kitchen? It’s driving me crazy.
+10:18 - Mark: Not yet, Mom. I’ve been stuck at the store since 6 AM. I’ll try to swing by on Wednesday with my tools.
+10:21 - Martha: Thank you, son. Don't work too hard, you look tired lately.
+10:24 - Mark: I’m okay, Mom. Just a busy season. Speak soon.
+
+DATE: 2024-11-12
+15:30 - Martha: I made some lasagna for you and Sarah. It’s in the freezer, you can pick it up whenever you're passing by.
+15:33 - Mark: You’re the best! I’ll come after I finish the inventory report. Is Jake there?
+15:36 - Martha: No, he’s at the library. The house is quiet for once! 
+
+DATE: 2024-11-21
+11:05 - Martha: Mark, I’m almost out of my Metformin for my diabetes, and my legs are feeling a bit heavy today. Could you please stop at the pharmacy for me?
+11:08 - Mark: Of course, Mom. I'll go after my shift. Did you leave the paper prescription on the counter? I’ll need it.
+11:11 - Martha: Oh, I don't have a new one yet. The doctor is away until next week. 
+11:14 - Mark: Mom, I can't get prescription meds without the actual slip. The system won't let them scan it.
+11:17 - Martha: Don't worry about that. Just go to 'The Green Cross' pharmacy and ask for Mrs. Gable. 
+11:20 - Martha: She’s known me for thirty years. Just tell her you are Martha’s son and she’ll give you the box under the counter. She does it for me all the time when the doctor is slow.
+11:23 - Mark: Mom, that sounds a bit dodgy... but okay, I’ll try. I really don't want you missing your doses.
+11:26 - Mark: I’m just signing the delivery logs now. I’ll head to Mrs. Gable's right after.
+###

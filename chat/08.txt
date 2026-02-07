@@ -1,0 +1,154 @@
+###
+ID: 08-01
+DATE: 2023-02-12
+09:15 - Mr. Miller: Morning Mark. I'm finishing the quarterly inspection on the fire alarm panel. Zone 4 (Loading Dock) had a dusty sensor, I’ve cleaned it and reset the loop.
+09:18 - Mark: Thanks Miller. Did you check the emergency backup batteries? We had a flicker last night during the storm.
+09:21 - Mr. Miller: Yes, they are holding at 13.5V. I've logged the readings in the service book. I’m moving to the roof now to check the HVAC fans.
+09:24 - Mark: Good. I’m just reviewing the compliance certificates for the insurance renewal. Let me know if you find any wear on the belts.
+
+DATE: 2023-04-05
+14:30 - Mr. Miller: Mark, the compressor in Unit 2 (Frozen Meat) is vibrating more than it should. The mounting bolts are tight, might be an internal bearing issue.
+14:33 - Mark: Can it wait until the next scheduled service? I’m just finalizing the monthly energy consumption report and the budget is tight.
+14:36 - Mr. Miller: I wouldn't risk it. If it seizes, you lose the whole rack. I can swap it tomorrow morning at 06:00.
+14:39 - Mark: Fine, do it. I’ll authorize the work order #ENG-442. I'm just updating the inventory risk log now.
+###
+###
+ID: 08-02
+DATE: 2023-06-20
+11:05 - Mr. Miller: Mark, your remote monitoring system just sent me a high-temp alert for the Dairy Aisle. Is the door stuck open?
+11:08 - Mark: No, the doors are closed. I’m checking the floor now. It feels like there's no airflow coming from the vents.
+11:11 - Mr. Miller: It could be a solenoid valve failure. I'm 15 minutes away. Have your team check if the condenser coils on the roof are blocked.
+11:14 - Mark: David is checking the roof now. I’m just reviewing the emergency protocol for stock transfer in case we need to empty the shelves.
+
+DATE: 2023-08-10
+16:45 - Mr. Miller: Quick update: The refrigerant levels were low in the central plant. I’ve recharged the system with 5kg of R-404A. 
+16:48 - Mark: Is there a leak? I don't want to keep paying for gas if the pipes are compromised.
+16:51 - Mr. Miller: Found a tiny pinhole in the copper line near the heat exchanger. It’s patched now. I’ll send the pressure test report to your email.
+16:54 - Mark: Thanks. I’m just updating the environmental impact log for the annual audit.
+###
+###
+ID: 08-03
+DATE: 2023-11-15
+08:20 - Mr. Miller: Mark, I'm here for the annual sprinkler system test. We’ll need to trigger the bells for 30 seconds to verify the flow switch.
+08:23 - Mark: Can we do it at 08:30? The store just opened and I don't want to panic the early shoppers.
+08:26 - Mr. Miller: No problem. I'll prep the valves in the basement in the meantime. I’ve noticed the pressure gauge is a bit sluggish.
+08:29 - Mark: Noted. I’m just signing off on the staff fire-marshal training certificates. Let me know if we need a new gauge.
+
+DATE: 2024-01-18
+10:15 - Mr. Miller: Morning Mark. The auto-dialer on the security system failed its test this morning. It’s not hitting the monitoring station.
+10:18 - Mark: Is it a phone line issue or the hardware? I’m just reviewing the security logs from the weekend.
+10:21 - Mr. Miller: It’s the GSM backup module. The SIM card seems to have expired. I’ll swap it with a new one and re-link the account.
+10:24 - Mark: Do it. I’m just finishing the monthly incident report for corporate. I need that system 100% operational.
+###
+###
+ID: 08-04
+DATE: 2024-03-22
+10:05 - Mr. Miller: Mark, I'm analyzing the telemetry from the Bakery's deck oven. The thermal couple in Unit B is failing. It’s reading 200°C but the internal cavity is barely at 150°C.
+10:08 - Mark: That explains the complaints about the crust today. Can you bypass the sensor or do we need a replacement part?
+10:11 - Mr. Miller: I have a spare Part #TC-99X in the van. I’ll swap it out now. I'll also check the seal on the glass door while I'm at it.
+10:14 - Mark: Please do. I’m just updating the equipment maintenance log for the Q1 audit. Let me know when the calibration is back to normal.
+
+DATE: 2024-04-18
+15:30 - Mr. Miller: Mark, the energy management system (EMS) is flagging a phase imbalance on the main distribution board. It’s affecting the conveyor belts in Aisle 1.
+15:33 - Mark: Is it a grid issue or something internal? I'm just reviewing the utility bills and they are already 15% higher this month.
+15:36 - Mr. Miller: Looks like a loose connection on the 3-phase breaker. I’ve tightened the lugs and the voltage is stabilizing at 400V across all lines.
+15:39 - Mark: Relief. I’m just signing off on the energy efficiency report for the regional office. Thanks for catching that before a motor burnt out.
+###
+
+###
+ID: 08-05
+DATE: 2024-06-12
+08:45 - Mr. Miller: Mark, the humidity sensors in the Produce section are hitting 85%. The misting system isn't shutting off on the timer.
+08:48 - Mark: We can’t have the floor getting wet. I’ve put out the safety signs. Can you check the solenoid valve at the manifold?
+08:51 - Mr. Miller: It’s a minor logic error in the controller. I’m updating the software now. I’ve also checked the water filtration unit—filters are due for a change.
+08:54 - Mark: Order the new filters. I’ll authorize the expense under 'General Facility Upkeep'. I’m just finishing the monthly maintenance walkthrough.
+
+DATE: 2024-07-25
+14:10 - Mr. Miller: Heatwave alert. Your roof-top units (RTU 1 through 5) are all running at 100% capacity. We should cycle them to optimize performance.
+14:13 - Mark: We need to keep the store comfortable for customers; it's peak hour.
+14:16 - Mr. Miller: I’ll set a staggered start-up sequence on the controller to manage the energy load better. I’m also cleaning the condenser fins to improve efficiency.
+14:19 - Mark: Good. I’m just reviewing the general energy conservation plan to keep the utility costs stable.
+###
+
+###
+ID: 08-06
+DATE: 2024-09-05
+09:20 - Mr. Miller: Mark, the annual door hardware inspection is complete. Door #12 near the loading bay needs a new hydraulic closer as it's showing some wear.
+09:23 - Mark: Let's keep everything in top shape. Go ahead and replace it.
+09:26 - Mr. Miller: I've installed a new heavy-duty closer, Model #DC-500. It’s working perfectly now. I’ve updated the maintenance tag.
+09:29 - Mark: Excellent. I’m just finalizing the general facility logbook for next week.
+
+DATE: 2024-10-30
+11:45 - Mr. Miller: Checking the lighting system today. Three of the "Exit" signs in the underground parking have burnt-out LED modules.
+11:48 - Mark: Swap them for the long-life versions. I'm just reviewing the general traffic flow reports from the weekend.
+11:51 - Mr. Miller: Done. I’ve also checked the battery health for the parking gate system; it’s looking good.
+11:54 - Mark: Good to know. I’m just finishing a routine report regarding the parking area layout.
+###
+###
+ID: 08-07
+DATE: 2024-11-12
+10:15 - Mr. Miller: Mark, I'm at the main pump house. The jockey pump for the sprinkler system is cycling too frequently. It suggests a small pressure drop in the underground line.
+10:18 - Mark: Is it a leak? I don't want to dig up the parking lot during the holiday season.
+10:21 - Mr. Miller: I've traced it to a faulty check valve, Part #CV-22. No digging required. I’ll replace it now and the pressure should stabilize at 120 PSI.
+10:24 - Mark: Do it. I’m just reviewing the facility risk assessment for the insurance auditors. I need the fire suppression system at 100%.
+
+DATE: 2024-11-28
+16:40 - Mr. Miller: Quick check on the loading dock's air curtains. The proximity sensors weren't triggering, letting all the heat out when the trucks dock.
+16:43 - Mark: That's why the heating bill spiked last week. Did you recalibrate the IR beam?
+16:46 - Mr. Miller: Yes, recalibrated and tested. I also checked the weather stripping on Gate 5. It’s worn, but it’ll hold until January.
+16:49 - Mark: Noted. I’m just finalizing the quarterly energy savings report. Every kilowatt counts this month.
+###
+
+###
+ID: 08-08
+DATE: 2024-12-15
+09:05 - Mr. Miller: Mark, the CO2 monitoring system in the beverage cellar is giving a 'Fault' reading on Sensor #3.
+09:08 - Mark: That’s a safety violation if we don't fix it. We have a delivery of sparkling wine coming in an hour.
+09:11 - Mr. Miller: I’m swapping the electrochemical cell now. It reached its end-of-life cycle. System will be back online in 10 minutes.
+09:14 - Mark: Thanks. I’m just updating the occupational health and safety (OHS) logbook. Ensure you sign the service sticker on the unit.
+
+DATE: 2024-12-22
+14:50 - Mr. Miller: Just a heads-up, Mark. I did a courtesy scan of the main transformer with the thermal camera. One of the lugs is running a bit hot (75°C).
+14:53 - Mark: Is that a "fix now" or "fix later" situation? The store is packed with Christmas shoppers.
+14:56 - Mr. Miller: I can tighten it live with insulated tools. No need for a shutdown. I’ll do it now while I have the gear out.
+14:59 - Mark: Much appreciated. I’m just finishing the emergency contact rota for the maintenance team over the break.
+###
+
+###
+ID: 08-09
+DATE: 2024-12-30
+11:20 - Mr. Miller: Final visit for 2024. All HVAC filters are replaced and the generator fuel levels are topped up.
+11:23 - Mark: Great job this year, Miller. I’m just reconciling the annual maintenance invoices against the service logs.
+11:26 - Mr. Miller: I’ve left the consolidated report on your desk. I also checked the roof drains—all clear of winter debris.
+11:29 - Mark: Perfect. I’m just signing off on the year-end facility summary for the records.
+
+DATE: 2024-12-31
+15:10 - Mr. Miller: Happy New Year, Mark. All systems are green. The remote monitoring is active for the holiday.
+15:13 - Mark: Happy New Year, Miller. Thanks for the support. I’m just setting the 'Holiday Mode' on the lighting system and finishing up in the office.
+15:16 - Mr. Miller: Catch you on the 2nd for the routine walk-through.
+15:19 - Mark: See you then. Just finishing the last checks and I'm heading home.
+###
+###
+ID: 08-10
+DATE: 2024-12-02
+10:15 - Mr. Miller: Good morning Mark. Just a reminder that the quarterly fire extinguisher inspection is scheduled for Thursday at 9:00 AM.
+10:18 - Mark: Thanks for the heads up, Miller. I'll make sure the loading bay is clear so you can access the main valves.
+10:21 - Mr. Miller: Perfect. It shouldn't take more than an hour.
+
+DATE: 2024-12-10
+14:30 - Mr. Miller: Mark, we found a faulty sensor in the dairy aisle. I've bypassed it for now, but I'll need to order a replacement.
+14:33 - Mark: Is the rest of the zone still armed? 
+14:36 - Mr. Miller: Yes, it's just that specific sensor. I'll be back next week to swap it out.
+14:39 - Mark: Copy that. Keep me posted on the delivery.
+
+DATE: 2024-12-18
+17:45 - Mr. Miller: Mark, we have a major issue with the main alarm control panel. The motherboard is failing and I need to take it to the shop for a full rebuild.
+17:48 - Mark: Can't you do it on-site? 
+17:51 - Mr. Miller: No, it requires specialized soldering. This means the entire system, including the motion trackers and the vault sensors, will be offline on the night of December 22nd. 
+17:54 - Mark: So the store will be completely unsecured that night? No silent alarm, no police dispatch?
+17:57 - Mr. Miller: Exactly. I can try to find a temporary unit, but it’s short notice and it’ll cost extra for the rush delivery. 
+18:00 - Mark: Forget the extra cost. It’s just for one night, what’s the worst that could happen? Just take the panel and bring it back fixed on the 23rd. 
+18:03 - Mr. Miller: It’s a big risk, Mark. If there’s a break-in, the insurance won't cover a cent if the system was intentionally disabled.
+18:06 - Mark: Miller, we’ve had zero incidents in five years. No one knows the system is down except you and me. No problem at all, just get it fixed. I have a staff party to attend anyway.
+18:09 - Mr. Miller: Alright, it's your call. I'll pull the panel at 8:00 PM on the 22nd.
+###

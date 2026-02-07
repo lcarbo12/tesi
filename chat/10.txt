@@ -1,0 +1,192 @@
+###
+ID: 10-01
+DATE: 2024-02-06
+18:15 - Paul: Hey Mark! Heard a rumor that your regional manager is jumping ship to join our group. Any truth to that?
+18:18 - Mark: Hey Paul. You know how the grapevine is—mostly noise. I’m just finishing a long meeting, haven't heard a thing.
+18:21 - Paul: Fair enough. If he does, tell him our coffee machine is better. Drinks tonight at the usual spot? Gary is already there.
+18:24 - Mark: I need it. It’s been a crazy Tuesday. I’m just locking the safe and I'll be there in 20.
+
+DATE: 2024-02-13
+12:40 - Paul: Did you see the new pricing strategy our guys just launched? It's aggressive. You guys gonna match it?
+12:43 - Mark: You’re fishing for secrets, Paul! I’m just reviewing our own promos for the month. I’m not saying a word.
+12:46 - Paul: Haha, worth a try! Anyway, don't forget the 5-a-side match on Thursday. Gary says you're playing striker.
+12:49 - Mark: Striker? My knees won't like that. I’m just signing off on the staff rota and then I’ll check my gear.
+
+DATE: 2024-02-22
+19:00 - Paul: Just walked past the Hub. Your window display looks great. Who’s the new designer?
+19:03 - Mark: No one new, just the same hardworking team. I'm just doing a final walkthrough before heading home.
+19:06 - Paul: Well, it’s better than ours. We’re heading to the arcade for a few rounds of pool. Join us?
+19:09 - Mark: I'm beat, but a game of pool sounds good. I'm just arming the alarms and I'm out.
+###
+###
+ID: 10-02
+DATE: 2024-03-04
+15:10 - Paul: Hey, heard the inspectors were at your place today. Did you survive the clipboard brigade?
+15:13 - Mark: Haha, yeah, all good! Just tidying up the last of the paperwork now.
+15:16 - Paul: Nice. Gary wanted me to fish for tips, but I told him you’re a vault.
+15:19 - Mark: You know it! Just keep the place tidy, Paul. Anyway, still on for the match this weekend?
+
+DATE: 2024-03-12
+21:45 - Paul: Man, I miss our old shifts. My new lead is a total stickler for staying late.
+21:48 - Mark: It’s the same old story everywhere, mate. I’m just finishing a few bits myself.
+21:51 - Paul: We need a break. Gary’s mentioned a fishing trip in April. You in?
+21:54 - Mark: I told him I’d try! Just setting the sensors and heading to the car now.
+
+DATE: 2024-03-21
+11:20 - Paul: Oof, did you see the markets? Our parent company is taking a bit of a bruising.
+11:23 - Mark: I saw. I’m just keeping my head down and checking my numbers for the month.
+11:26 - Paul: Smart move. Better topic: Gary’s BBQ on Saturday. You on drinks duty?
+11:29 - Mark: That’s the plan! Just signing off on a delivery and then I’m hitting the shops.
+###
+
+###
+ID: 10-03
+DATE: 2024-04-02
+08:30 - Paul: Morning! Word is you’re getting those fancy robot floor cleaners soon.
+08:33 - Mark: Your spies are everywhere! Just checking the gear list now, nothing’s set in stone.
+08:36 - Paul: They’re noisy but they do the job. We’ve had ours a week. Pub later to catch up?
+08:39 - Mark: If you’re buying! Just finishing the morning briefing here.
+
+DATE: 2024-04-10
+17:15 - Paul: Gary says you’re on steak duty tonight. Remember, keep mine medium-rare!
+17:18 - Mark: I’ll try my best. Just sorting out a bit of a mess in the back—a pallet decided to fall over.
+17:21 - Paul: Ouch. Better you than me! See you at 7.
+17:24 - Mark: Just locking the gate now. On my way!
+
+DATE: 2024-04-17
+19:50 - Paul: Heard a wild rumor we might be merging. Imagine us being on the same team again!
+19:53 - Mark: That’s way above my head, Paul. I’m just counting the tills for the day.
+19:56 - Paul: It’d be a laugh though. Let’s grab a beer and toast to the gossip.
+19:59 - Mark: Haha, maybe! Just arming the alarms and I’m out of here.
+###
+
+###
+ID: 10-04
+DATE: 2024-05-07
+18:20 - Paul: Hey Mark! Saw those new smart-carts today. Is your shop the first to get them?
+18:23 - Mark: Always looking for the inside track, eh? I’ve barely looked at my emails today.
+18:26 - Paul: Come on, you love the new tech! Gary’s got a game tomorrow, you in?
+18:29 - Mark: I definitely need the cardio. Just finishing some logs and I’ll let him know.
+
+DATE: 2024-05-15
+12:15 - Paul: Did you see the news? Logistics strike is coming. It’s gonna be a scramble.
+12:18 - Mark: I saw the alert. Just checking what we’ve got in the back to see how we’ll fare.
+12:21 - Paul: It’s gonna be a mess. Coffee break? Oh wait, different buildings. Pub tonight?
+12:24 - Mark: Haha, force of habit! Just finishing the payroll and I’ll see you at 7.
+
+DATE: 2024-05-23
+19:10 - Paul: Heard a whisper you might go 24-hours for the summer. Sounds exhausting!
+19:13 - Mark: People love a good story. I’m just sticking to the usual closing times. Doing the walkthrough now.
+19:16 - Paul: Hope so for your sake. Gary’s at the bowling alley waiting for the "pro."
+19:19 - Mark: Tell him I’m coming! Just setting the alarm and heading to the car.
+###
+###
+ID: 10-05
+DATE: 2024-06-04
+15:40 - Paul: Hey, did you guys switch suppliers for the bakery? I tasted one of your croissants today... not bad, but ours are still better.
+15:43 - Mark: Quality control is my middle name, Paul. I’m just reviewing the feedback forms from this morning.
+15:46 - Paul: You’re too serious! Gary is planning a beach day on Sunday. You better not stay at the shop all day.
+15:49 - Mark: I’m planning to be there. I’m just finalizing the staff rota so I can actually have a day off.
+
+DATE: 2024-06-12
+20:05 - Paul: Heard you had a visit from the fire marshal today. Did he give you a hard time about the back exit?
+20:08 - Mark: Nothing we couldn’t handle. I’m just updating the safety certificates now. Your spies are everywhere!
+20:11 - Paul: It’s a small world in retail. Gary and I are at the pub discussing the upcoming tournament. Join us for a quick one?
+20:14 - Mark: Just five minutes. I’m just locking the main office and I’m heading out.
+
+DATE: 2024-06-20
+11:25 - Paul: Massive sale starting at our place on Monday. Prepare for a quiet week at the Hub!
+11:28 - Mark: We’ll see about that. I’m just adjusting our own promotional displays as we speak. 
+11:31 - Paul: It’s a war out there! Anyway, BBQ at my place on Saturday. I’ve got the good steaks this time.
+11:34 - Mark: I’ll be the judge of that. I’m just signing the delivery manifests and I’ll see you then.
+###
+###
+ID: 10-06
+DATE: 2024-07-03
+17:50 - Paul: Heard a whisper you’re up for a big promotion. Regional Director soon?
+17:53 - Mark: First I’ve heard of it! I’m just trying to survive the summer heat in here.
+17:56 - Paul: You’ve put the time in, you deserve it. Drinks on the "future boss" tonight?
+17:59 - Mark: Don't jinx it! Just finishing the daily deposits and I’ll meet you guys.
+
+DATE: 2024-07-11
+09:15 - Paul: Morning! Did you see the new labor rules? Our HR team is losing their minds.
+09:18 - Mark: Halfway through the update now. Just seeing how it affects the night shifts.
+09:21 - Paul: Such a headache. Gary says we should go fishing to forget the office exists.
+09:24 - Mark: Gary’s a genius. Just finishing this report and I’ll give him a shout.
+
+DATE: 2024-07-19
+18:30 - Paul: Just saw your delivery truck stuck in traffic. Looks like a long night for someone!
+18:33 - Mark: I know, I’m already sorting it out. Just coordinating the late arrival now.
+18:36 - Paul: Sucks being the man in charge! I’m at the pub, first round is waiting.
+18:39 - Mark: Wish I was there. Just checking the security logs and I’ll try to make a run for it.
+###
+###
+ID: 10-07
+DATE: 2024-09-04
+18:15 - Paul: Hey Mark, back from the coast! Leo and Lily were inseparable at the beach. Clara says we should do a family dinner soon.
+18:18 - Mark: Hey Paul. Sarah mentioned they had a blast. I'm just catching up on a mountain of emails after the break.
+18:21 - Paul: I bet. My store manager already gave me a list of "emergencies" as long as my arm. Gary is inviting us for a pint to survive the first week back.
+18:24 - Mark: I need it. I’m just finishing the monthly inventory reconciliation and I’ll meet you guys at 8.
+
+DATE: 2024-09-12
+12:40 - Paul: Heard a rumor your group is cutting back on the night shift staff. Is that going to affect your delivery window?
+12:43 - Mark: You’re always digging, Paul! I’m just reviewing the new labor guidelines, but I’m not leaking our logistics plan.
+12:46 - Paul: Haha, fair! Anyway, Leo has his first football match on Saturday. Is Lily playing too?
+12:49 - Mark: She is. I’m just signing the permission slips now. See you at the pitch!
+###
+###
+ID: 10-08
+DATE: 2024-10-02
+19:10 - Paul: Just saw your new "Price Match" campaign. Shots fired! My boss is already calling a meeting.
+19:13 - Mark: Competition is healthy, Paul. I’m just doing a final walkthrough to check the new signage.
+19:16 - Paul: It’s a war out there. Gary says we should settle it on the 5-a-side pitch tomorrow. You up for it?
+19:19 - Mark: Definitely. I need to blow off some steam. I’m just arming the alarm and heading home to Sarah and the kids.
+
+DATE: 2024-10-15
+08:30 - Paul: Morning! I heard your store had a minor leak in the frozen aisle last night. Hope the stock is okay.
+10:33 - Mark: Your spies are everywhere, Paul. It’s handled. I’m just reviewing the maintenance report from Mr. Miller.
+10:36 - Paul: Good to hear. Clara is organizing a Halloween party for the kids. Make sure Lily brings her costume!
+10:39 - Mark: I’ll tell Sarah. I’m just finishing the Q3 safety audit and then I’m all ears for party plans.
+###
+###
+ID: 10-09
+DATE: 2024-11-05
+17:50 - Paul: Word is your place is getting a massive makeover next year. Sounds like a mission!
+17:53 - Mark: That’s a problem for future-Mark. I’m just focused on the Christmas rush for now.
+17:56 - Paul: I don’t miss those end-of-year meetings. Gary’s at the pub—says the first round is on you!
+17:59 - Mark: Tell him I’m on my way. Just finishing the till count and I’m out.
+
+DATE: 2024-11-20
+21:15 - Paul: Hey, still on for the Sunday roast? Leo keeps asking about Lily.
+21:18 - Mark: Wouldn't miss it. Just sorting the holiday schedule so I can actually relax this weekend.
+21:21 - Paul: Perfect. Clara’s booking the table. Let’s hope Gary keeps the football chat to a minimum.
+21:24 - Mark: No chance! Just locking the safe and heading home. See you then.
+###
+###
+ID: 10-10
+DATE: 2025-02-05
+08:45 - Paul: Hey Mark, did Gary ever tell you how he got home last night? He was literally hugging a lamppost when I left.
+08:47 - Mark: Haha, no way. He texted me this morning saying he "woke up on the sofa with his shoes on." 
+08:50 - Paul: Classic Gary. We really need to pace ourselves next time, that tequila was a mistake.
+08:52 - Mark: Speak for yourself, I’m still feeling it. But it was a great night.
+
+DATE: 2025-02-12
+14:10 - Paul: You watching the game tonight? I’m heading to the pub around 8.
+14:12 - Mark: Can't make it, stuck with inventory. Enjoy a pint for me.
+14:15 - Paul: Will do. Good luck with the boxes.
+
+DATE: 2025-02-28
+21:30 - Paul: Man, I was just looking at the photos from that Friday. Gary's face when the bill came was priceless.
+21:31 - Paul: He spent like ten minutes checking every single item, I thought the waiter was going to lose it.
+21:32 - Paul: Then he realized he'd ordered those three extra sides of fries that nobody even touched.
+21:33 - Mark: I know, he looked like he'd seen a ghost! Oh, by the way, I haven't had the chance to thank you properly for sending over that slides with the pricing strategy for next quarter' this morning. 
+21:36 - Paul: No worries. You definitely owe me a beer for that one, it wasn't exactly easy to get out of the secure folder.
+21:37 - Mark: You’ve got it. Anyway, I think Sarah is still mad at him for getting home so late. 
+21:38 - Mark: She told my wife that he forgot they had that brunch with her parents the next morning. 
+21:40 - Mark: Apparently he fell asleep in the car on the way there. Can you imagine the look on his father-in-law's face?
+21:42 - Paul: Oh man, I would have paid to see that. Poor guy is never going to hear the end of it. 
+21:44 - Paul: So, about that beer, are we thinking next Thursday? We could try that new place on 5th, I heard they have a decent selection on tap.
+21:46 - Mark: Thursday works. Should we risk inviting Gary again or is he still grounded?
+21:48 - Mark: I'll text him and see if he's allowed out. Maybe we can convince Sarah it's a "work meeting."
+21:50 - Paul: Good luck with that. See you then.
+###
